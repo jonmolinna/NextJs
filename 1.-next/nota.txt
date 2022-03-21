@@ -1,0 +1,6 @@
+Instalacion Manual
+-----------------------------------------
+npm init -y
+npm install next react react-dom
+
+npm install --save isomorphic-fetch
