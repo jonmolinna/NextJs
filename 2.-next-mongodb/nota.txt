@@ -1,0 +1,23 @@
+npx creacte-next-app name_project
+
+npm install mongoose
+npm install semantic-ui-react semantic-ui-css
+
+
+page/api => son los backends
+http://localhost:3000/api/hello
+
+http://localhost:3000/api/tasks
+
+
+sudo service mongod start => para iniciar en linux mongodb
+
+next path aliases => configuracion '../../../'
+
+req.method => get, delete, put, post
+req.url => /api/tasks
+
+// Para traer datos del banckend
+getServerSideProps => 
+getStaticPaths => cuando se pide los datos ya estaria pintado el doc html
+getStaticProps => hace una previzualizacion, consume mas recursos y obtiene una ventaja como el CEO.
