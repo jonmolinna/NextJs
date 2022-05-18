@@ -1,0 +1,8 @@
+getInitialProps => metodo deprecado, permite hacer un fetch de datos al servidor, 
+        funciona solo en tipo paginas y no en componentes
+
+
+npm install firebase
+npm install -g firebase-tools
+
+npm install eslint --save-dev
