@@ -9,3 +9,9 @@ npm install html-react-parser
 npm install moment
 npm install react-multi-carousel
 npm install sass
+
+// GitHub
+https://github.com/adrianhajdin/project_graphql_blog
+
+// Depoy
+Vercel
